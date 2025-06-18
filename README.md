@@ -6,7 +6,7 @@ Fetch, analyze, and explore all Y Combinator-funded startups from the past two y
 
 ## 📦 What’s in this repo?
 
-- **`yc_companies.py`** – Python script to fetch YC startups via the public API and save the results as Excel
+- **`YCList.py`** – Python script to fetch YC startups via the public API and save the results as Excel
 - **`yc_companies_with_long_desc.xlsx`** – Example data export (run the script to get the latest data!)
 - **`requirements.txt`** – Quick install for all Python dependencies
 
